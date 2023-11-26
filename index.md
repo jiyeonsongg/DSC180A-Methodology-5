@@ -14,7 +14,7 @@ Mentor: Kyle Shannon<br>
 4. What other techniques would you be interested in using in your project?
 
 ### Answers to the questions:
-1. Difficulty of replicating the easy data analysis and getting the exact same outputs.
+1. Difficulty in replicating the easy data analysis and getting the exact same outputs.
 2. I would like to find out results that are helpful to medical providers and patients.
 3. I need to understand and change the number of patients who are selected from the original paper.
 4. Latent Class Analysis & Elixhauser Comorbidity Score
